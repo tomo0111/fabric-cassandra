@@ -1,0 +1,3 @@
+import install_java
+import install_cassandra
+import setup_cassandra
